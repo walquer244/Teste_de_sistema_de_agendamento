@@ -23,3 +23,27 @@
     --color-crimson-400: #e74c3c;
     --color-crimson-600: #a93226;
 }
+
+:root {
+    --font-sans: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --color-ink-950: #0a0a0f;
+    --color-ink-900: #12121a;
+    --color-ink-800: #1a1a28;
+    --color-ink-700: #252535;
+    --color-ink-600: #32324a;
+    --color-ink-500: #4a4a6a;
+    --color-ink-400: #6b6b8f;
+    --color-ink-300: #9898b8;
+    --color-ink-200: #c4c4d8;
+    --color-ink-100: #e8e8f0;
+    --color-ink-50: #f5f5fa;
+
+    --color-gold-500: #d4a853;
+    --color-gold-400: #e0bc6e;
+    --color-gold-300: #ecce8a;
+    --color-gold-600: #b8902e;
+
+    --color-crimson-500: #c0392b;
+    --color-crimson-400: #e74c3c;
+    --color-crimson-600: #a93226;
+}

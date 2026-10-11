@@ -86,7 +86,7 @@ class Funcionario extends Model
         if ($this->foto_perfil) {
             return asset('storage/' . $this->foto_perfil);
         }
-        return asset('images/default-avatar.png');
+        return asset('images/default-avatar.svg');
     }
 
     /**

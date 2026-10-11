@@ -54,7 +54,7 @@ class Galeria extends Model
         if ($this->imagem_tatuagem) {
             return asset('storage/' . $this->imagem_tatuagem);
         }
-        return asset('images/default-tattoo.png');
+        return asset('images/default-tattoo.svg');
     }
 
     /**
@@ -65,7 +65,7 @@ class Galeria extends Model
         if ($this->foto_perfil_cliente) {
             return asset('storage/' . $this->foto_perfil_cliente);
         }
-        return asset('images/default-avatar.png');
+        return asset('images/default-avatar.svg');
     }
 
     /**
